@@ -11,7 +11,7 @@ Un'Goro Soil (used for several classic quests: *Un'Goro Soil*, *Bungle in the Ju
 - Ships with **~130 known Un'Goro Dirt Pile locations** right out of the box, sourced from GatherMate2_Data's datamined node database.
 - **Automatically learns** any additional pile locations as you loot them — no profession or quest required.
 - Shows every known location on both the **world map and minimap**, at all times, regardless of quest status.
-- Toggle checkbox directly on the Un'Goro Crater world map (only visible there) to show/hide the pins.
+- "Soil" toggle checkbox in the **top-right corner** of the world map, which only appears while the Un'Goro Crater zone map itself is open, to show/hide the pins.
 - Uses HereBeDragons-Pins for accurate map placement across zoom levels.
 
 ## Commands
