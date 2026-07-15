@@ -1,5 +1,7 @@
 # Un'Goro Soil Finder
 
+**[Download on CurseForge](https://www.curseforge.com/wow/addons/ungoro-soil-finder/)**
+
 Finds and tracks Un'Goro Soil pile locations on the world map and minimap — even without an active quest.
 
 Un'Goro Soil (used for several classic quests: *Un'Goro Soil*, *Bungle in the Jungle*, *Morrowgrain Research*) only shows up on your map while one of those quests is active in [Questie](https://www.curseforge.com/wow/addons/questie) — and [GatherMate2](https://www.curseforge.com/wow/addons/gathermate2) has support for tracking the dirt piles built in, but it's been left disabled for years.
