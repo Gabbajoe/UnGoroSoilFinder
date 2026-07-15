@@ -1,0 +1,17 @@
+## Interface: 11508
+## Title: Un'Goro Soil Finder
+## Notes: Learns Un'Goro Soil pile locations as you loot them and shows them on the world map and minimap - even without an active soil quest. Companion addon for Questie, does not modify it. Ships with a starting set of known locations sourced from GatherMate2_Data (GPLv2).
+## Author: gabbajo3
+## Version: 1.0.0
+## X-License: GPLv2
+## X-Credits: kagaro, xinhuan, nevcairiel (GatherMate2/GatherMate2_Data, source of bundled Un'Goro Soil coordinates); Nevcairiel (HereBeDragons)
+## SavedVariables: UnGoroSoilFinderDB
+## OptionalDeps: Questie
+
+Libs\HereBeDragons\LibStub\LibStub.lua
+Libs\HereBeDragons\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\HereBeDragons\HereBeDragons-2.0.lua
+Libs\HereBeDragons\HereBeDragons-Pins-2.0.lua
+
+UnGoroSoilFinderData.lua
+UnGoroSoilFinder.lua
